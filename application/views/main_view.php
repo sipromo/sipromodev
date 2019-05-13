@@ -3,6 +3,9 @@
 <!DOCTYPE HTML>
 <html>
 <head>
+    <link rel='stylesheet' type='text/css' href='<?= base_url(); ?>assets/css/home.css' />
+
+    <script src='<?= base_url(); ?>/assets/js/home.js'></script>
 </head>
 
 <body>
